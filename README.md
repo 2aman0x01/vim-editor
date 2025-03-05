@@ -25,7 +25,7 @@
 - to replace a word type :%s/word1/word2/g.
 - press U for undo.
 - press ctrl + R for redo.
-- press Shuft + O for create a gap in line and write something. 
+- press Shift + O for create a gap in line and write something. 
 
 - select a character in word then pres R for replace then type any character 
 
