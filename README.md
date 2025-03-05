@@ -1,6 +1,6 @@
 Vim Editor
 
-'''
+```
 - vim newfile.
 - press i for insert.
 - write any text what I want.
@@ -35,4 +35,4 @@ Vim Editor
 - type :set nonu for remove line number.
 - press :syntax on for colorize text and type :syntax off for colorize text off
 
-'''
+```
