@@ -15,11 +15,8 @@
 - press dd for delete
 
 - press ESC then type /word for searching specific word in editor.
-
 - after type /word that highlighted in editor, press enter key. The /word can be jump to another word top to bottom by pressing keyboard n key.
-
 - after type ?word that highlighted in editor, press enter key. The /word can be jump to another word bottom to top by pressing keyboard n key.
-
 - Shift + * and Shift + # is also a shortcut key for highlight words. Should the mouse cursor stay on that word.
 
 - to replace a word type :%s/word1/word2/g.
@@ -28,7 +25,6 @@
 - press Shift + O for create a gap in line and write something. 
 
 - select a character in word then pres R for replace then type any character 
-
 - select a line with cursor then press dd for deleting 
 - type :e! for undo all changes 
 - type :set nu for adding line number.
