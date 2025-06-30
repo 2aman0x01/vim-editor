@@ -3,9 +3,9 @@ source : [here](https://youtu.be/sUIoV48rxVE?si=pnpesxaYBNeQbCUR)
 <h1><i>Here's some basic vim commands</i></h1>
 
 ```
-- vim newfile.
+- vim newfile.txt.
 - press i for insert.
-- write any text what I want.
+- write any text what you want.
 - press ESC for exit insert.
 - press :wq for Save and Exit.
 - press :q! for not save and exit.
